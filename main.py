@@ -23,7 +23,15 @@ result_text = str(result_number)
 
 print('3 + 4 = ' + result_text)
 
+def factorial(user_input):
+    factorial_value = 1
+    for number in range(user_input):
+        if number > 0:
+            factorial_value *= number
+            print(factorial_value)
 
+number = int(input("give me a number: "))
 
+factorial(number)
 
 
