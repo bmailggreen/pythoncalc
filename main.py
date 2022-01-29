@@ -23,7 +23,11 @@ result_text = str(result_number)
 
 print('3 + 4 = ' + result_text)
 
-
-
-
+def add(c,d):
+    return c/d
+main_c=12
+main_d=3
+result_division=add(main_c,main_d)
+result_str = str(result_division)
+print('12:3=' + result_str)
 
