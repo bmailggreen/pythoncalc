@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8329f12-4ad6-4af6-b6cd-819e8e0ceff8" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Elso.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Elso.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+>>>>>>> edbe7091e7861887978b1ac27b4630f02104dd83
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +26,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_INSPECTION" />
   </component>
+=======
+>>>>>>> edbe7091e7861887978b1ac27b4630f02104dd83
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -37,7 +43,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+=======
+    <property name="WebServerToolWindowFactoryState" value="false" />
+>>>>>>> edbe7091e7861887978b1ac27b4630f02104dd83
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
@@ -54,6 +64,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
@@ -67,11 +78,16 @@
       <module name="Elso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+<<<<<<< HEAD
       <option name="SDK_HOME" value="" />
+=======
+      <option name="SDK_HOME" value="C:\Users\Joci\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
+>>>>>>> edbe7091e7861887978b1ac27b4630f02104dd83
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
@@ -98,9 +114,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582228906108</updated>
+      <workItem from="1643453906759" duration="1049000" />
     </task>
     <servers />
   </component>
+<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -111,6 +129,10 @@
         </entry>
       </map>
     </option>
+=======
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+>>>>>>> edbe7091e7861887978b1ac27b4630f02104dd83
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643451426004">
